@@ -1,0 +1,15 @@
+com\dev\reference\api\controller\AdminController.class
+com\dev\reference\api\repository\AiResultRepository.class
+com\dev\reference\api\domain\Billing.class
+com\dev\reference\api\repository\ProductRepository.class
+com\dev\reference\api\repository\UserRepository.class
+com\dev\reference\api\domain\AiResult.class
+com\dev\reference\api\domain\User.class
+com\dev\reference\api\domain\Category.class
+com\dev\reference\api\domain\Favourites.class
+com\dev\reference\api\Application.class
+com\dev\reference\api\controller\UserController.class
+com\dev\reference\api\repository\FavouritesRepository.class
+com\dev\reference\api\domain\Product.class
+com\dev\reference\api\repository\BillingRepository.class
+com\dev\reference\api\repository\CategoryRepository.class
